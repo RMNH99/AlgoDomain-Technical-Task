@@ -1,0 +1,32 @@
+.item-div{
+    background-color: rgb(227, 219, 219,0.4);
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 30px;
+    margin: 10px auto;
+    width: 80%;
+    color: white;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 40% 35% 5% 10% 10%;
+}
+.item-div-2{
+    background-color: rgb(23, 23, 23,0.4);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 15px;
+    border: 2px solid #0c0c0c;
+}
+button{
+       width: 70px;
+    height: 30px;
+    background-color: white;
+    border: 2px solid #cc7d07;
+    border-radius: 10px;
+    color: #329807;
+    margin: auto;
+    margin: 10px auto 10px auto;
+}
